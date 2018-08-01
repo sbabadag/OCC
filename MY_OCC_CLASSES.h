@@ -227,6 +227,7 @@
 #include <BRepAlgoAPI_Cut.hxx>
 #include <StdSelect_FaceFilter.hxx>
 #include <Standard_PrimitiveTypes.hxx>
+//
 
 
 Handle(Aspect_DisplayConnection) aDisplayConnection;
